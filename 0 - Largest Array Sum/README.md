@@ -1,4 +1,4 @@
-# Challenge 0
+# Challenge 0 - Largest Array Sum
 Given an array of integers, find the consecutive block with the __largest__ sum.
 
 For example,
