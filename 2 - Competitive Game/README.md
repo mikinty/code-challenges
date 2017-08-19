@@ -6,7 +6,9 @@ The game goes as follows:
 - player B then takes a subset of the array with an even sum and removes it
 - if either player can't make a move they lose
 
-The question: How do you tell who will win if they both play optimally?
+The question: How do you tell who will win if they both play optimally? 
+
+_Note: Player A ALWAYS goes first_
 
 ## Program specifications
 - __Input__: `int` array
