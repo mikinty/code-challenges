@@ -9,6 +9,7 @@ The game goes as follows:
 The question: How do you tell who will win if they both play optimally? 
 
 _Note: Player A ALWAYS goes first_
+_Note: Each player has to take AT LEAST ONE number each time_
 
 ## Program specifications
 - __Input__: `int` array
