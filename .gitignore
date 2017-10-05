@@ -1,3 +1,5 @@
-__pycache__/ # generated from Python classes
+# generated from Python classes
+__pycache__/
 
-.DS_Store # for Mac folks
+# for Mac folks
+.DS_Store 
