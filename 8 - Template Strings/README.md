@@ -6,7 +6,7 @@ So the problem is, given a template string, in the format
 ```javascript
 const str = 'Hello, I am <%name%>, and I like eating <%food%>!'
 ```
-create a class that takes this string as an argument, and has a function `fill()` that will, given a JSON object with the appropriate fields
+create a class that takes this string as an argument, and has a function `fill()` that will, given a JSON object with the appropriate fields, output the template strings with its fields replaced by the fields given by the JSON object. For example, consider the following snippet of code:
 ```javascript
 const obj = new Class(str);
 
