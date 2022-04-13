@@ -1,7 +1,7 @@
 '''
 Here we generate a bunch of things using recursion
 
-Author: myou
+Author: mikinty
 '''
 
 
